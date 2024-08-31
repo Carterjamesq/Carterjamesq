@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Woocommerce online stores and creating websites on Wordpress<br>👯 I’m looking to collaborate on web agencies to create custom websites/applications on Wordpress/Woocommerce<br>🌱 I’m currently learning Golang/React <br>💬 Ask me about<br>
 
 
 ## 🌐 Socials:
