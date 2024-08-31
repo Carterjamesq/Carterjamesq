@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Woocommerce online stores and creating websites on Wordpress<br>👯 I’m looking to collaborate on web agencies to create custom websites/applications on Wordpress/Woocommerce<br>🌱 I’m currently learning Golang/React <br>💬 Ask me about<br>
+🔭 I’m currently working on Woocommerce online stores and creating websites on Wordpress<br>👯 I’m looking to collaborate on web agencies to create custom websites/applications on Wordpress/Woocommerce<br>🌱 I’m currently learning Golang/React <br>💬 Let's chat<br>
 
 
 ## 🌐 Socials:
